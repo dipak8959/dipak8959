@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Header](./github-header-image.png)
 <!--
 **dipak8959/dipak8959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
